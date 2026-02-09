@@ -13,5 +13,5 @@ I am a Frontend Developer focused on building scalable web apps with React.js. I
 Deep diving into React patterns and optimizing frontend architecture for scalable web apps.
 
 ### 💬 Reach Out:
-🤝 **LinkedIn:** [Ubaid Ur Rehman](https://linkedin.com/in/your-profile-url)
+🤝 **LinkedIn:** [Ubaid Ur Rehman](https://www.linkedin.com/in/ubaidurrehmandev/)
 💬 **Email:** [ubaidur.dev@gmail.com](mailto:ubaidur.dev@gmail.com)
