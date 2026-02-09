@@ -1,5 +1,5 @@
 # Ubaid Ur Rehman
-### ⚡ Frontend Engineer | React.js & Modern Web Interfaces
+### ⚡ Frontend Developer | React.js & Modern Web Interfaces
 
 I am a Frontend Developer focused on building scalable web apps with React.js. I bridge the gap between complex designs and clean, functional code, ensuring a seamless user experience across all devices.
 
