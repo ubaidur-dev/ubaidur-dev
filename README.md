@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ubaid Ur Rehman
+### ⚡ Frontend Engineer | React.js & Modern Web Interfaces
 
-<!--
-**ubaidur-dev/ubaidur-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Frontend Developer focused on building scalable web apps with React.js. I bridge the gap between complex designs and clean, functional code, ensuring a seamless user experience across all devices.
 
-Here are some ideas to get you started:
+### 🧩 Core Expertise:
+◈ **Frameworks:** React.js
+◈ **Styling:** Tailwind CSS, Bootstrap
+◈ **Languages:** JavaScript (ES6+), HTML5, CSS3
+◈ **Tools:** Figma (Design-to-Code), Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus:
+Deep diving into React patterns and optimizing frontend architecture for scalable web apps.
+
+### 💬 Reach Out:
+🤝 **LinkedIn:** [Ubaid Ur Rehman](https://linkedin.com/in/your-profile-url)
+💬 **Email:** [ubaidur.dev@gmail.com](mailto:ubaidur.dev@gmail.com)
