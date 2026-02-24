@@ -1,5 +1,5 @@
 # Ubaid Ur Rehman
-## Frontend Developer | Building Clean & Fast Web Applications
+## Frontend Developer | React.js | Building Pixel-Perfect Interfaces from Figma
 I am a Frontend Developer who enjoys turning design ideas into functional websites. My focus is on writing clean code that works smoothly on both mobile and desktop. I specialize in React.js and I am very comfortable working with Figma to create pixel-perfect interfaces.
 
 
