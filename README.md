@@ -1,49 +1,51 @@
 # Ubaid Ur Rehman
-### Frontend Engineer | React.js | Next.js | TypeScript | Building Scalable & High-Performance Web Apps
-I am a Frontend Developer with nearly 2 years of professional experience in building fast, clean, and fully responsive web interfaces. My expertise is focused entirely on JavaScript (ES6+), TypeScript, React.js, and Next.js, along with modern styling frameworks like Tailwind CSS and Bootstrap 5. Having worked in remote software setups across different time zones, I have the clear discipline to manage development tasks independently, connect async REST APIs smoothly with frontend code, and maintain clean repository branches using Git and GitHub.
+### Full-Stack Developer | Laravel | React.js | REST APIs | Building Secure, Scalable & Fast Web Applications
+I am a Full-Stack Developer with over 3 years of professional experience. I write Laravel and PHP on the server and React on the client, and I am happiest when I can own a feature from the first migration to the last pixel. That means designing the database, building the API, and shipping the interface that uses it, whether it is an admin panel, a reporting dashboard or a customer-facing web application.
 
-I focus heavily on writing clean, organized, and human-readable code that is easy to scale and maintain for the long run. My daily engineering workflow involves building reusable components, optimizing web assets inside Vite for fast page loads, and fixing layout bugs or responsiveness issues across different screens. My main goal is to deliver lightweight, high-performance web applications that load instantly and provide real, stable value to global users.
+Most of my Laravel work is on large, long-running codebases: 50 to 300 migrations, role-based access, media handling, payments, reports and background jobs. Working in code like that taught me to keep things boring and predictable: repositories and form requests for structure, observers and queues for side effects, eager loading for speed, and clear naming so the next developer is not lost. On the front end I build React interfaces with Tailwind CSS that stay fast and look right on every screen.
 
 ---
 
 ## Detailed Tech Stack
 
-* **Core Engineering Languages:** JavaScript (ES6+ with modern async/await controls), TypeScript (for writing type-safe, bug-free web architectures), HTML5, and CSS3.
-* **Frameworks & State Management:** React.js (Component lifecycle specialization), Next.js (Mastering modern App Router, Server-Side Rendering (SSR), and Static Site Generation), and Redux Toolkit for clean global state tracking.
-* **Styling Frameworks:** Tailwind CSS (utility-first setups), Bootstrap 5 / React-Bootstrap, custom SASS modules, and advanced CSS Grid/Flexbox for absolute layout alignment.
-* **Tooling & Infrastructure:** Vite (high-speed asset bundling), Git & GitHub workflow control, NPM/PNPM dependency ecosystems.
-* **Browser Utilities:** Developing cross-browser extensions using specialized Chrome/Firefox Web Extensions API and direct client-side storage mechanisms.
+* **Back End:** PHP and Laravel (Eloquent, migrations and seeders, form requests, middleware, observers, queues, scheduled jobs, repository pattern), REST API design, MySQL with indexing and query optimization.
+* **Authentication & Access Control:** Laravel Sanctum, JWT and OAuth2, OTP login, Google sign-in, and role and permission systems built on Spatie Permission.
+* **Front End:** JavaScript (ES6+), TypeScript, React.js, Next.js, Redux, React Router, Axios, with custom hooks for shared logic.
+* **Styling & UI:** Tailwind CSS, Bootstrap 5, Sass, jQuery with AJAX and Select2, Framer Motion, and CSS Grid and Flexbox for responsive layouts.
+* **Business Features:** Stripe and PayPal payments, PDF invoices and reports with DOMPDF, Excel import and export, Yajra DataTables for server-side tables, media uploads with Spatie Media Library, transactional email.
+* **Python & Machine Learning:** FastAPI and scikit-learn services exposed over HTTP and consumed by a Laravel API and a React client.
+* **Tooling:** Git and GitHub, Composer, npm, Vite, OpenAPI and Swagger documentation, and Chrome extensions on Manifest V3.
 
 ---
 
-## My Engineering Workflow & Deep Practical Insights
+## How I Work
 
-* **Writing Readable, Human-Written Code:** I firmly believe that code is read more often than it is written. I focus heavily on writing highly descriptive naming conventions, explicit functions, and self-documenting code layouts that ensure any incoming remote engineer can drop into the codebase and contribute on day one.
-* **Advanced Component-Driven Architecture:** Bulky files are a performance bottleneck. My building standard is to break complex page matrices down into highly reusable, granular UI blocks. If an interface card or action button repeats twice in a layout, it is immediately extracted into an independent component with strict prop controls to keep the codebase lightweight.
-* **Figma-to-Code Mastery & Structural Repairs:** I speak the language of UI designers. I take high-fidelity Figma prototypes and translate them into a pixel-perfect reality, ensuring container margins, line-height ratios, and interactive states match the layout exactly. I specialize in diagnosing layout bugs, correcting broken navigation flows, and handling mobile responsive gaps that cause layout shifts on smart viewports.
-* **Performance & Asset Benchmarking:** Slow load times lose paying clients. I focus on reducing page load speeds by cutting out bloated external libraries, setting up efficient code-splitting modules within Vite setups, optimizing asset compression scales, and eliminating page render blockages to hit 95%+ core web vitals.
-* **Data Pipelines & Integration:** Competent frontend engineering requires secure async communication. I excel at binding RESTful backend API responses perfectly with local frontend component states, managing error state exceptions seamlessly, and ensuring clean, uninterrupted data flows across analytical forms and data tables.
-* **Browser Automation & Lightweight Architecture:** I have real-world experience configuring client-side web tools. I know how to optimize performance when background environments block application speeds, switching data operations directly to lightweight, local browser structures to preserve RAM performance and system processing speeds.
+* **Database first.** I settle the tables and relations before writing controllers. A good schema removes half the bugs you would otherwise meet later.
+* **Fast queries.** Relations are eager loaded, searched columns are indexed, and large lists use server-side pagination and DataTables, so pages stay quick as data grows.
+* **Permissions are designed, not patched on.** Roles and permissions are planned at the start, and sensitive actions are written to an activity log.
+* **One contract between front end and back end.** I agree the API payloads early and document them with OpenAPI, so React and Laravel meet without surprises.
+* **Components, not copies.** When a table, card or form shows up twice in React, it becomes a single component.
+* **Checked on real screens.** Layouts are built mobile first and tested across devices and browsers.
 
 ---
 
 ## Current Focus
 
-* **Next.js Deep Optimization:** Mastering instant loading states, streaming UI layers via Suspense, and maximizing edge network caching to load web systems under one second.
-* **Custom Design Systems:** Constructing independent, highly tailored frontend design token libraries that can be shared smoothly across multiple corporate business repositories.
+* **Laravel at scale:** Cleaner service layers, queues and events, and keeping big applications easy to change.
+* **React and Next.js:** Server rendering, performance and typed code with TypeScript.
 
 ---
 
-##  Availability
+## Availability
 
-Available for full-time Frontend Engineer roles, UI refactoring, and web performance optimization. Drop a message for a free technical consultation or to discuss open-source collaborations!
+Open to full-time Full-Stack, Laravel and React roles, and to freelance work: new builds, admin panels and dashboards, API development, and improving or taking over existing applications. Send me a message and tell me what you are building.
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## Let's Connect & Collaborate
 
-* **🌐 Portfolio:** [ubaidur.dev](https://ubaidur.dev)
-* **📬 Email:** [ubaidur.dev@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ubaidur.dev@gmail.com) 
-* **💼 LinkedIn:** [Ubaid Ur Rehman](https://www.linkedin.com/in/ubaidurrehmandev) 
-* **💬 WhatsApp:** [+92 315 8119936](https://wa.me/923158119936) 
+* **🌐 Portfolio:** [ubaidur-dev-portfolio.netlify.app](https://ubaidur-dev-portfolio.netlify.app)
+* **📬 Email:** [ubaidur.dev@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ubaidur.dev@gmail.com)
+* **💼 LinkedIn:** [Ubaid Ur Rehman](https://www.linkedin.com/in/ubaidurrehmandev)
+* **💬 WhatsApp:** [+92 315 8119936](https://wa.me/923158119936)
 * **📞 Call / Phone:** [+92 318 2062638](tel:+923182062638)
