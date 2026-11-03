@@ -48,4 +48,4 @@ Open to full-time Full-Stack, Laravel and React roles, and to freelance work: ne
 * **📬 Email:** [ubaidur.dev@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ubaidur.dev@gmail.com)
 * **💼 LinkedIn:** [Ubaid Ur Rehman](https://www.linkedin.com/in/ubaidurrehmandev)
 * **💬 WhatsApp:** [+92 315 8119936](https://wa.me/923158119936)
-* **📞 Call / Phone:** [+92 318 2062638](https://ubaidur-dev-portfolio.netlify.app/call)
+* **📞 Call / Phone:** [+92 315 8119936](https://ubaidur-dev-portfolio.netlify.app/call)
