@@ -1,8 +1,10 @@
 # Ubaid Ur Rehman
 ### Full-Stack Developer | React.js | Laravel | REST APIs | Building Secure, Scalable & Fast Web Applications
-I am a Full-Stack Developer with over 3 years of professional experience. I write React on the client and Laravel and PHP on the server, and I am happiest when I can own a feature from the first migration to the last pixel. That means designing the database, building the API, and shipping the interface that uses it, whether it is an admin panel, a reporting dashboard or a customer-facing web application.
+I started my career in January 2024 as a React intern at Code District, stepping up into a ReactJS developer role where I spent the year building responsive interfaces and connecting them to REST APIs. In February 2025 I joined Olive Digital Pvt Ltd as a Laravel developer, so now I am the one building those APIs.
 
-Most of my Laravel work is on large, long-running codebases: 50 to 300 migrations, role-based access, media handling, payments, reports and background jobs. Working in code like that taught me to keep things boring and predictable: repositories and form requests for structure, observers and queues for side effects, eager loading for speed, and clear naming so the next developer is not lost. On the front end I build React interfaces with Tailwind CSS that stay fast and look right on every screen.
+At Olive Digital I work on Laravel back ends, building REST APIs, login and permissions, reports and PDF invoices, scheduled jobs and email, and admin panels. In my own time I build full projects from the database up. CareerPath AI, for example, has a React front end, a Laravel API and a Python model that recommends careers.
+
+When I was a React developer I worked closely with the backend team to agree on API payloads before building anything, which cut integration errors by 20%. Now that I write the APIs myself, I start from what the screen needs and design the endpoint around it.
 
 ---
 
